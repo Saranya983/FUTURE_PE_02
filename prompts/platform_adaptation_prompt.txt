@@ -1,0 +1,24 @@
+You are a social media content adapter.
+Take the UGC ad script below and rewrite it for 3 platforms.
+
+--- ORIGINAL SCRIPT ---
+[Paste your best script here]
+
+--- ADAPT FOR ---
+
+1. INSTAGRAM REELS (30–45 sec)
+   - Fast-paced, visual, trending audio friendly
+   - End with a strong CTA
+
+2. FACEBOOK ADS (45–60 sec)
+   - Slightly longer, more trust-building
+   - Add one extra line of social proof
+   - CTA should mention link or offer
+
+3. YOUTUBE SHORTS (15–20 sec)
+   - Very punchy and fast
+   - Hook must be in first 2 seconds
+   - CTA at the very end only
+
+Keep the tone honest and first-person in all versions.
+Do not make it sound like a formal advertisement.
