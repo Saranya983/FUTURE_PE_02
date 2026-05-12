@@ -1,0 +1,18 @@
+You are a conversion copywriter for UGC ads.
+Write 10 soft CTAs for a skincare serum.
+
+--- RULES ---
+- Do NOT say "Buy Now" or "Shop Now" (too salesy)
+- Sound like a friend recommending something
+- Keep it under 15 words each
+- Some should create urgency, some should be curious
+
+--- PRODUCT ---
+GlowLab Vitamin C Face Serum — ₹499 — ships across India
+
+--- EXAMPLES OF GOOD CTAs ---
+- "Link is in my bio, genuinely worth trying."
+- "They have free shipping right now, just saying."
+- "I'll drop the link below if you want to check it out."
+
+Now write 10 more like these.
